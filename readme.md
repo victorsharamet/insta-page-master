@@ -15,7 +15,7 @@
 2. Скачать или клонировать проект к себе на компьютер. 
 
 ```
-git clone https://github.com/WebCademy/--------
+git clone https://github.com/WebCademy/insta-page
 ```
 
 3. Перейти в папку с проектом. Установить browser-sync глобально.
