@@ -6,15 +6,15 @@ $(document).ready(function(){
 
 	function showPhotos(){
 		var i;
-		var slides = $('.photo img');
+		var slides = $('#instafeed a');
 
-		// Запуская цикл для скрытия фотографий
+		// Запускаем цикл для скрытия фотографий
 		for ( i = 0; i < slides.length; i++){
-			console.log(i);
 			$(slides[i]).hide();
 		}
 
 		slideIndex++;
+		
 		if ( slideIndex > slides.length ){
 			slideIndex = 1;
 		}
