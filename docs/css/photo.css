@@ -6,10 +6,6 @@
 	margin-bottom: 70px;
 }
 
-/* .photo img {
-	display: none;
-} */
-
 .instafeed {
 	width: 640px;
 	height: 620px;
@@ -21,7 +17,6 @@
 .instafeed a {
 	display: none;
 }
-
  
 .shadowed {
 	opacity: 1;
