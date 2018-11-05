@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-	var audio = $('audioTrack')[0];
+	var audio = $('#audioTrack')[0];
 
 	$playBtn = $('#audio-play');
 	$pauseBtn = $('#audio-pause');
